@@ -1,0 +1,16 @@
+[
+    {
+        "asset_type": "type_1",
+        "tag_number": "tag1",
+        "host_name" : "hname_1",
+        "ip_address" : "10.0.0.1",
+        "issue_desc" : "issue detail_1"
+    },
+    {
+        "asset_type": "type_2",
+        "tag_number": "tag2",
+        "host_name" : "hname_2",
+        "ip_address" : "10.0.0.2",
+        "issue_desc" : "issue detail_2"
+    }
+]
